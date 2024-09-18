@@ -1,4 +1,4 @@
-# ADOFAI Field Random Number Generator Mod
+# Field Random Number Generator
 This is a mode that generates random numbers between numbers when you enter the number n~n format in the number field in the editor of the game ADOFAI.
 
 ## Setup
