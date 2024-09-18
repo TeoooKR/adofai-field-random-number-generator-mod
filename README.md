@@ -2,8 +2,8 @@
 This is a mode that generates random numbers between numbers when you enter the number n~n format in the number field in the editor of the game ADOFAI.
 
 ## Setup
-[ADOFAI Mod Guide](https://hyonsu.notion.site/4a967f6e2a2a4de29cc0438b8cfdc23c)
-Download latest FieldRandomNumberGenerator.zip file on [here.](https://github.com/TeoooKR/adofai-field-random-number-generator-mod/releases)
+1. Follow [ADOFAI Mod Guide](https://hyonsu.notion.site/4a967f6e2a2a4de29cc0438b8cfdc23c)
+2. Download latest FieldRandomNumberGenerator.zip file on [here.](https://github.com/TeoooKR/adofai-field-random-number-generator-mod/releases)
 
 ## Usage
 Enter a range in the format `n to n`. For example:
